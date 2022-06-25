@@ -1,1 +1,21 @@
+@media all and (max-width: 670px) {
+    .header-list{
+      display: none;
+    }
+    .icon {
+     display: block;
+     margin-right: 20px;
+     color: black;
+    }
+    .header-logo {
+        font-size: 38px;
+    }
+    .lesson-wrapper p {
+        font-size: 12px;
+    }
+  }
+  @media all and (max-width: 1000px) {
+  
+  
+}
 
