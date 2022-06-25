@@ -34,6 +34,15 @@ li {
   color: white;
   font-family: serif;
 }
+.icon {
+  color: white;
+  float: right;
+  padding: 21px 0;
+  font-size: 25px;
+  display: none;
+}
+
+}
 .main h2 {
   opacity: 0.7;
   color:  white;
