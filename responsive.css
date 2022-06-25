@@ -1,2 +1,8 @@
 @media all and (max-width: 670px) {
-  
+  .header-right {
+    display: none;
+  }
+  .icon {
+   display: block;
+  }
+}
